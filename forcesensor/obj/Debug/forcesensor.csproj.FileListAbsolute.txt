@@ -1,0 +1,14 @@
+C:\Users\Jonathan\source\repos\forcesensor\forcesensor\obj\Debug\forcesensor.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\source\repos\forcesensor\forcesensor\bin\Debug\forcesensor.exe.config
+C:\Users\Jonathan\source\repos\forcesensor\forcesensor\bin\Debug\forcesensor.exe
+C:\Users\Jonathan\source\repos\forcesensor\forcesensor\bin\Debug\forcesensor.pdb
+C:\Users\Jonathan\source\repos\forcesensor\forcesensor\obj\Debug\forcesensor.exe
+C:\Users\Jonathan\source\repos\forcesensor\forcesensor\obj\Debug\forcesensor.pdb
+C:\Users\Jonathan\source\repos\forcesensor\forcesensor\obj\Debug\forcesensor.csprojAssemblyReference.cache
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\forcesensor\forcesensor\bin\Debug\forcesensor.exe.config
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\forcesensor\forcesensor\bin\Debug\forcesensor.exe
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\forcesensor\forcesensor\bin\Debug\forcesensor.pdb
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\forcesensor\forcesensor\obj\Debug\forcesensor.csprojAssemblyReference.cache
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\forcesensor\forcesensor\obj\Debug\forcesensor.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\forcesensor\forcesensor\obj\Debug\forcesensor.exe
+C:\Users\Jonathan\Google Drive\Haptics\ro'man 2019\forcesensor\forcesensor\obj\Debug\forcesensor.pdb

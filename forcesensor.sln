@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forcesensor", "forcesensor\forcesensor.csproj", "{E2105FB7-A418-48C9-8B32-292B1D6E4AC3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{18870E21-2F98-4AE8-B907-A98B393893A9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Documents\GitHub\crccsharp2\CRC.csproj = ..\..\..\Documents\GitHub\crccsharp2\CRC.csproj
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2105FB7-A418-48C9-8B32-292B1D6E4AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2105FB7-A418-48C9-8B32-292B1D6E4AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2105FB7-A418-48C9-8B32-292B1D6E4AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2105FB7-A418-48C9-8B32-292B1D6E4AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23A209BC-9DA0-44E6-B8F7-F94E544B52FF}
+	EndGlobalSection
+EndGlobal
